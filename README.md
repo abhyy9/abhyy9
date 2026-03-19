@@ -32,9 +32,13 @@
   <a href="https://linkedin.com/in/abhinav-abhii">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
+
+  <a href="mailto:abhinavabhhii@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-  <img src="https://komarev.com/ghpvc/?username=abhyy9&style=flat-square&color=blue" alt="Profile Visit"/>
+<img src="https://komarev.com/ghpvc/?username=abhyy9&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
@@ -47,31 +51,23 @@
 <tr>
 <td width="50%" align="center">
 <h3>☁️ Cloud & DevOps</h3>
-
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible" />
-<br/><br/>
-
 </td>
 
 <td width="50%" align="center">
 <h3>⚙️ CI/CD & Tools</h3>
-
 <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,linux,bash" />
 </td>
 </tr>
 
 <tr>
 <td width="50%" align="center">
-<h3>📊 Monitoring & Logging</h3>
-
+<h3>📊 Monitoring</h3>
 <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
-<br/><br/>
-
 </td>
 
 <td width="50%" align="center">
-<h3>🌐 Networking & Others</h3>
-
+<h3>🌐 Networking</h3>
 <img src="https://skillicons.dev/icons?i=nginx,python" />
 </td>
 </tr>
@@ -80,22 +76,44 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=abhyy9&theme=dark&hide_border=true" alt="Streak" />
-</div>
-
----
-
 ## 🚀 Projects Highlight
-
 - 🔧 CI/CD Pipeline with Jenkins & GitHub Actions  
 - ☸️ Kubernetes Microservices on AWS EKS  
 - ☁️ AWS Infrastructure Automation using Terraform & Ansible  
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhyy9&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=abhyy9&theme=dark&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhyy9&theme=dark&hide_border=false&layout=compact" />
+</p>
+
+---
+
+## 🔝 Top Contributed Repositories
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=abhyy9&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## ✍️ Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
 ## ⚡ Fun Fact
 I automate everything I can — if I do it twice, I script it 😄
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=abhyy9&icon=0&color=0" />
+</p>
