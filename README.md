@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi 👋, I'm Abhinav  <br>### AWS Cloud & DevOps Engineer 🚀<br><br>🔭 I’m currently working on:<br>Designing and deploying scalable cloud infrastructure on AWS with CI/CD automation using Jenkins & GitHub Actions.<br><br>👯 I’m looking to collaborate on:<br>DevOps, Cloud-native applications, Infrastructure as Code (Terraform), and Kubernetes projects.<br><br>🤝 I’m looking for help with:<br>Scaling Kubernetes clusters, improving observability, and real-world production debugging.<br><br>🌱 I’m currently learning:<br>Advanced Kubernetes (EKS), GitOps workflows (ArgoCD), and monitoring with Prometheus & Grafana.<br><br>💬 Ask me about:<br>AWS (EC2, VPC, IAM, S3), Docker, Kubernetes, Terraform, CI/CD pipelines, and Linux.<br><br>⚡ Fun fact:<br>I automate everything I can — if I do it twice, I script it 😄
+ About Me<br><br>Hi 👋, I'm Abhinav  <br>AWS Cloud & DevOps Engineer 🚀<br><br>🔭 AWS | CI/CD | Kubernetes  <br>🌱 Learning EKS & GitOps  <br>💬 Ask me about DevOps & Cloud  <br>⚡ Automation enthusiast 😄
 
 
 ## 🌐 Socials:
@@ -14,6 +14,9 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=abhyy9&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abhyy9&icon=0&color=0)](https://visitcount.itsvg.in)
